@@ -1,2 +1,2 @@
 # ALGORITMOS
-AULAS, PRIMEIROS CÓDIGOS criados na faculdade de sistemas de informação.
+Aulas, primeiros códigos criados na faculdade de sistemas de informação.
